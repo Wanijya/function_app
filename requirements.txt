@@ -6,4 +6,3 @@ azure-functions
 azure-storage-blob
 logging
 pandas
-
